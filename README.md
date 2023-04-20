@@ -1,18 +1,26 @@
-## Hey 👋, Amplework Software is a software development company that provides end-to-end solutions to businesses of all sizes.
+## Hey 👋,
 
-They specialize in developing custom software, mobile applications, web applications, and e-commerce solutions. With a team of experienced developers and designers, Amplework Software works closely with clients to understand their unique requirements and deliver high-quality, scalable solutions. They are committed to staying up-to-date with the latest technologies and using the best development practices to provide their clients with the most innovative and efficient solutions.
+Welcome to Amplework Software's GitHub profile! We are a leading software development company that specializes in providing end-to-end solutions to businesses of all sizes. Our team of experienced developers and designers is committed to delivering high-quality, scalable solutions that meet our clients' unique requirements.
   
 
 **Skills & Technologies**:<br/><br/>
-✅ Flutter, Kotlin, Swift<br/>
-✅ React JS, Javascript, Angular, VueJs, HTML, CSS, Bootstrap, Tailwind<br/>
-✅ NodeJs, Python, Java, Golang, Ruby, Laravel, PHP, Rest API, GraphQl<br/>
-✅ Apache, Nginx, IIS, <br/>
-✅ MongoDB, Postgress SQL, GraphQL, MySQL, GraphQL, Strapi<br/>
-✅ JIRA,  Slack, Trello, Github, Bascamp <br/>
-✅ AWS: S3, EC2, RDS, Lambda, ElasticSearch, API Gateway, Elastic Beanstalk, EC2 Container Service, SQS, CodeCommit.<br/>
-✅ Application: Node.js, React, React Native, redux Socket IO, Rest, GraphQL, Xcode, Android Studio, Visual Studio<br/>
-✅ DevOps: Github,  Docker, Bitrise, CicleCI<br/>
+
+ 
+🌐 React JS, Javascript, Angular, VueJs, HTML, CSS, Bootstrap, Tailwind
+
+💻 NodeJs, Python, Java, Golang, Ruby, Laravel, PHP, Rest API, GraphQl
+
+🌍 Apache, Nginx, IIS
+
+🗃️ MongoDB, Postgress SQL, GraphQL, MySQL, Strapi
+
+🛠️ JIRA, Slack, Trello, Github, Basecamp
+
+☁️ AWS: S3, EC2, RDS, Lambda, ElasticSearch, API Gateway, Elastic Beanstalk, EC2 Container Service, SQS, CodeCommit
+
+📱 Application: Flutter, Kotlin, Swift, React, React Native, redux Socket IO, Rest API, GraphQL, Xcode, Android Studio, Visual Studio
+
+🚀 DevOps: Github, Docker, Bitrise, CircleCI
 
 
 We might be a good match if you are: :<br/><br/>
