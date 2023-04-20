@@ -1,11 +1,9 @@
-## Hey 👋, Amplework Software is a software development company that provides end-to-end solutions to businesses of all sizes. 
-They specialize in developing custom software, mobile applications, web applications, and e-commerce solutions. With a team of experienced developers and designers,
-Amplework Software works closely with clients to understand their unique requirements and deliver high-quality, scalable solutions. 
-They are committed to staying up-to-date with the latest technologies and using the best development practices to provide their clients with the 
-most innovative and efficient solutions.
+## Hey 👋, Amplework Software is a software development company that provides end-to-end solutions to businesses of all sizes.
+
+They specialize in developing custom software, mobile applications, web applications, and e-commerce solutions. With a team of experienced developers and designers, Amplework Software works closely with clients to understand their unique requirements and deliver high-quality, scalable solutions. They are committed to staying up-to-date with the latest technologies and using the best development practices to provide their clients with the most innovative and efficient solutions.
   
 
-Skills & Technologies:<br/><br/>
+**Skills & Technologies**:<br/><br/>
 ✅ Flutter, Kotlin, Swift<br/>
 ✅ React JS, Javascript, Angular, VueJs, HTML, CSS, Bootstrap, Tailwind<br/>
 ✅ NodeJs, Python, Java, Golang, Ruby, Laravel, PHP, Rest API, GraphQl<br/>
@@ -23,7 +21,7 @@ We might be a good match if you are: :<br/><br/>
 ✅ A team searching for a dedicated long-term developer who knows the value of achieving daily commitments, giving responsive feedback, and meeting deadlines.<br/>
 
 
-<br/><br/>WHY CHOOSE US:<br/><br/>
+<br/><br/>**WHY CHOOSE US:**<br/><br/>
 
 🔥 Ensure 100% Project Success.<br/>
 🔥 Commitment to Customer Satisfaction.<br/>
