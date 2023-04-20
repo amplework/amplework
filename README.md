@@ -3,7 +3,7 @@
 Welcome to Amplework Software's GitHub profile! We are a leading software development company that specializes in providing end-to-end solutions to businesses of all sizes. Our team of experienced developers and designers is committed to delivering high-quality, scalable solutions that meet our clients' unique requirements.
   
 
-**Skills & Technologies**:<br/><br/>
+**Skills & Technologies**:<br/>
 
  
 🌐 React JS, Javascript, Angular, VueJs, HTML, CSS, Bootstrap, Tailwind
@@ -28,16 +28,10 @@ We might be a good match if you are: :<br/><br/>
 ✅ A company owner looking to grow your business and attract new customers in the emerging market of mobile applications.<br/>
 ✅ A team searching for a dedicated long-term developer who knows the value of achieving daily commitments, giving responsive feedback, and meeting deadlines.<br/>
 
+<br/>
+With our team of experienced developers and designers, we strive to understand your unique requirements and deliver scalable, high-quality solutions that meet your business needs. We keep ourselves updated with the latest technologies and use the best development practices to ensure 100% project success. Additionally, we offer flexible engagement models, PMP & SCRUM certified teams, and strict adherence to project timelines, ensuring customer satisfaction.
 
-<br/><br/>**WHY CHOOSE US:**<br/><br/>
-
-🔥 Ensure 100% Project Success.<br/>
-🔥 Commitment to Customer Satisfaction.<br/>
-🔥 Flexible SDLC Engagement Models.<br/>
-🔥 PMP & SCRUM Certified Teams.<br/>
-🔥 Strict adherence to Project Timeline.<br/>
-🔥 6 Months of free Maintenance & Support services after deployment of the project.<br/>
-
+We provide maintenance and support services for up to 6 months after deployment, guaranteeing peace of mind after the project is delivered. Choose us, and we promise to be your reliable partner in your journey to success.
   
 
 <br/>  
