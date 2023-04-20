@@ -23,7 +23,7 @@ Welcome to Amplework Software's GitHub profile! We are a leading software develo
 🚀 DevOps: Github, Docker, Bitrise, CircleCI
 
 
-We might be a good match if you are: :<br/><br/><br/>
+<br/><br/>**We might be a good match if you are:**<br/><br/>
 ✅ A startup with a good idea, in search of an ambitious and reliable developer.<br/><br/>
 ✅ A company owner looking to grow your business and attract new customers in the emerging market of mobile applications.<br/><br/>
 ✅ A team searching for a dedicated long-term developer who knows the value of achieving daily commitments, giving responsive feedback, and meeting deadlines.<br/>
